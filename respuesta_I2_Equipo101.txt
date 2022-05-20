@@ -1,0 +1,6 @@
+Ciarlo Thomas,
+Lucas Constanza,
+Gonzalez Ayrton
+
+b- No, no puede ya que Alfa no es el dueño del repositorio, si podria actualizar al estado de BETA
+d- No, no se pierden, al querer actualizar
