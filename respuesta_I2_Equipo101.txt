@@ -4,5 +4,11 @@ Gonzalez Ayrton
 
 a- Utilizando el fetch and merge y luego el git pull para traerlo a nuestro repositorio local
 b- No, no puede ya que Alfa no es el dueño del repositorio, si podria actualizar al estado de BETA
-d- No, no se pierden, al querer actualizar
 c- Se podria, pero al actualizar el archivo en la misma linea, van a aparecer conflictos de fusion que se van a tener que resolver manualmente
+d- No, no se pierden, al querer actualizar
+e- comandos utilizados:
+- clone
+- pull
+- add .
+- commit
+- push
